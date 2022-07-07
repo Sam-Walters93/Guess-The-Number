@@ -25,7 +25,7 @@ private static DataSource getDataSource() throws SQLException {
         ds.setServerName("localhost");
         ds.setDatabaseName("GuessGameDB");
         ds.setUser("root");
-        ds.setPassword("S11381105v$");
+        ds.setPassword("XXXXXX");
         ds.setServerTimezone("America/Chicago");
         ds.setUseSSL(false);
         ds.setAllowPublicKeyRetrieval(true);
